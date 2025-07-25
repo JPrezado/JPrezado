@@ -2,7 +2,7 @@
 
 **`Engenheiro da Computação e desenvolvedor full-stack em formação`**
 
-Me chamo João Victor Prezado Zanetti, tenho 19 anos e moro em Santos, SP. Atualmente, estou cursando o Bacharelado em Engenharia da Computação na UNIVESP, e buscando aprimorar meus conhecimentos na área de desenvolvimento full-stack.
+Me chamo João Victor Prezado Zanetti, tenho 19 anos e moro em Santos, SP. Atualmente, estou cursando o Bacharelado em Engenharia da Computação na UNIVESP, e buscando aprimorar meus conhecimentos na área de desenvolvimento full-stack e computação no geral.
 
 ---
 
